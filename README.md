@@ -5,7 +5,7 @@ This is a project create Persian pdf with laravel by the using of [niklasravnsbo
 # About the package
 This package supports auto-discovery features of Laravel 5.5+, You only need to manually add the service provider and alias if working on Laravel version lower then 5.5
 
-##Installation
+## Installation
 Require this package in your `composer.json` or install it by running:
 ```
 composer require niklasravnsborg/laravel-pdf
