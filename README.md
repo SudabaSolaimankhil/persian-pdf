@@ -42,6 +42,8 @@ function generate_pdf() {
 }
 ```
 For more information and other methods and setting visit the [niklasravnsborg](https://github.com/niklasravnsborg/laravel-pdf) page.
+
 For Persian font setting in Persian language visit [virgool](https://virgool.io/laravel-community/%D9%84%D8%A7%D8%B1%D8%A7%D9%88%D9%84-pdf-%DA%A9%D8%A7%D8%B1%D8%A7%DA%A9%D8%AA%D8%B1-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%D8%AF%D8%BA%D8%AF%D8%BA%D9%87-%D9%86%DB%8C%D8%B3%D8%AA-cuw16ywt90n8) page.
+
 Hope it was useful. 🤗🤗😊😊😉😉
 
